@@ -16,4 +16,11 @@ npm install
 npm run serve
 ```
 
+Loading...
+
+```bash
+App running at:
+  - Local:   http://localhost:8080/
+  - Network: http://192.168.10.105:8080/
+```
 
