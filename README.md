@@ -24,3 +24,4 @@ App running at:
   - Network: http://192.168.10.105:8080/
 ```
 
+[学习日志](https://github.com/yangtao2o/vue-sell-cube/wiki/%E5%AD%A6%E4%B9%A0%E6%97%A5%E5%BF%97)
